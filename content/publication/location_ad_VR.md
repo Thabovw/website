@@ -65,9 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "#"
-caption = "My caption :smile:"
+image = "Cave.jpg"
+caption = "Virtual supermarket"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
