@@ -14,15 +14,25 @@ subtitle = ""
 weight = 60
 
 +++
+I am a teaching instructor for the following courses at the Radboud Universtiy in Nijmegen:
 
-This is an example of using the *custom* widget to create your own homepage section.
+2015
 
-I am a teaching instructor for the following courses at University X:
+- Theories of Strategic and Persuasive Communication
+- Communication Science Skills
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+
+2016
+
+- Theories of Strategic and Persuasive Communication
+- Issues in Communication Science
+
+2017
+
+- Current Theories of Influence
+- Experimental Designs
+
+2018
+
+- Current Theories of Media and Influence
+- Bachelor Theses

@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-08-22T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Physical Activity",
+    "Social Influence",
+    "Social Network Theory",
+    "Health interventions",
+    "Mixed methods",
+    "Well-being"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "MSc. in Behavioural Sciences (research master)"
+  institution = "Radboud University"
+  year = 2014
+
+[[education.courses]]
+  course = "Bsc. in Communication Science"
+  institution = "Radboud University"
   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Thabo van Woudenberg (MSc.) is a PhD-candidate at the Radboud University in the Netherlands, and part of the [MyMovez](http://www.mymovez.eu) research team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+After obtaining the bachelor’s in Communication Science in Nijmegen, he finished the research Behavioural Science in Nijmegen successfully. Since February 2015, Thabo is working as a PhD on the MyMovez-project, focusing on physical activity in children and adolescents. In his studies, he looks at social influences on physical activity and uses social network interventions to promote physical activity in Dutch youth.
+ 

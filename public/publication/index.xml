@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
+    <title>Publications on Thabo van Woudenberg</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <description>Recent content in Publications on Thabo van Woudenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,20 +13,38 @@
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <title>Opening location-based mobile ads: How openness and location congruency of location-based ads weaken negative effects of intrusiveness on brand choice</title>
+      <link>/publication/open_vr/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/open_vr/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>A randomized controlled trial testing a social network intervention to promote physical activity among adolescents</title>
+      <link>/publication/sni_pilot/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/publication/sni_pilot/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Youth’s social network structures and peer influences: study protocol MyMovez project–Phase I</title>
+      <link>/publication/protocol/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/protocol/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Disentangling location-based advertising: the effects of location congruency and medium type on consumers’ ad attention and brand choice</title>
+      <link>/publication/location_ad_vr/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/location_ad_vr/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

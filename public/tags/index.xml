@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on Thabo van Woudenberg</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on Thabo van Woudenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,20 +22,56 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Advertising</title>
+      <link>/tags/advertising/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/advertising/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>Centrality</title>
+      <link>/tags/centrality/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/centrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location Based</title>
+      <link>/tags/location-based/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/location-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MyMovez</title>
+      <link>/tags/mymovez/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/mymovez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Advertising</title>
+      <link>/tags/open-advertising/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/open-advertising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Activity</title>
+      <link>/tags/physical-activity/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/physical-activity/</guid>
       <description></description>
     </item>
     
@@ -63,6 +99,33 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartphones</title>
+      <link>/tags/smartphones/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/smartphones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Network Intervention</title>
+      <link>/tags/social-network-intervention/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/social-network-intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality</title>
+      <link>/tags/virtual-reality/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/virtual-reality/</guid>
       <description></description>
     </item>
     

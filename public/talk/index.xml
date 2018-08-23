@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <title>Recent &amp; Upcoming Talks on Thabo van Woudenberg</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
+    <description>Recent content in Recent &amp; Upcoming Talks on Thabo van Woudenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,12 +13,75 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <title>A Randomized Controlled Trial Testing a Social Network Intervention to Promote Physical Activity Among Adolescents by using Smartphones</title>
+      <link>/talk/hepa17/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/hepa17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing a Social Network Vlog Intervention to Promote Physical Activity Among Adolescents: A Randomized Controlled Trial </title>
+      <link>/talk/ispah18/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/ispah18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing influence of peer interaction on physical activity among youth by measuring peer proximity with mobile technology.</title>
+      <link>/talk/ispah16/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/talk/ispah16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Het gebruik van mobiele technologie ter bevordering van fysieke activiteit en gezondheid.</title>
+      <link>/talk/gymmentoekomst/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/gymmentoekomst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MyMovez: Health campaign using wearables</title>
+      <link>/talk/cont15/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/cont15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity of physical activity in youngsters’ social networks: Selection or Influence?</title>
+      <link>/talk/isbnpa17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/isbnpa17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social network implemented health campaign to promote physical activity among youth.</title>
+      <link>/talk/phd15/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/phd15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social network intervention to promote physical activity in youth.</title>
+      <link>/talk/bsi17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/bsi17/</guid>
+      <description></description>
     </item>
     
   </channel>

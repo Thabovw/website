@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physical Activity on Thabo van Woudenberg</title>
+    <link>/tags/physical-activity/</link>
+    <description>Recent content in Physical Activity on Thabo van Woudenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/physical-activity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A randomized controlled trial testing a social network intervention to promote physical activity among adolescents</title>
+      <link>/publication/sni_pilot/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/sni_pilot/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Youth’s social network structures and peer influences: study protocol MyMovez project–Phase I</title>
+      <link>/publication/protocol/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/protocol/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
