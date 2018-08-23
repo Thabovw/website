@@ -72,7 +72,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "t.j.vanwoudenberg@bsi.ru.nl"
+  email = "t.vanwoudenberg@bsi.ru.nl"
   address = "Spinoza 9 Room 26, Radboud University, Nijmegen, the Netherlands"
   office_hours = "Monday 09:00 to 17:00 or email for appointment"
   phone = "024 361 2322"
