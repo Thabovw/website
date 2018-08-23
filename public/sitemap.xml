@@ -4,14 +4,6 @@
     
     <url>
     
-      <loc>/publication/open_vr/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+02:00</lastmod>
     </url>
@@ -46,6 +38,14 @@
     
       <loc>/talk/ispah18/</loc>
       <lastmod>2017-11-17T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/open_vr/</loc>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -157,7 +157,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -184,7 +184,7 @@
     <url>
     
       <loc>/tags/advertising/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -210,7 +210,7 @@
     <url>
     
       <loc>/tags/location-based/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -228,7 +228,7 @@
     <url>
     
       <loc>/tags/open-advertising/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -264,7 +264,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
