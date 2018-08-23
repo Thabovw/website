@@ -1,6 +1,6 @@
 +++
 title = "Opening location-based mobile ads: How openness and location congruency of location-based ads weaken negative effects of intrusiveness on brand choice"
-date = 2017-10-01T00:00:00
+date = 2018-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,7 +15,7 @@ authors = ["P Ketelaar","S Bernritter","TJ van Woudenberg", "E Rozendaal", "R Ko
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Journal of Business Research*"
