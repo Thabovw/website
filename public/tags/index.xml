@@ -69,7 +69,7 @@
     <item>
       <title>Physical Activity</title>
       <link>/tags/physical-activity/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/physical-activity/</guid>
       <description></description>
@@ -103,6 +103,15 @@
     </item>
     
     <item>
+      <title>Simulations</title>
+      <link>/tags/simulations/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/simulations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Smartphones</title>
       <link>/tags/smartphones/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
@@ -112,11 +121,29 @@
     </item>
     
     <item>
+      <title>Social Network Analyses</title>
+      <link>/tags/social-network-analyses/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/social-network-analyses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Network Intervention</title>
       <link>/tags/social-network-intervention/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/social-network-intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Network Interventions</title>
+      <link>/tags/social-network-interventions/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/social-network-interventions/</guid>
       <description></description>
     </item>
     
