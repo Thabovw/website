@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-09-13T09:00:00
+time_start = 2018-09-13T19:30:00
 #time_end = 2030-06-01
 
 # Abstract and optional shortened version.
@@ -34,7 +34,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "D:/Website/static/files/citations/MyMovez presentatie ouderavond Gymnasium.pdf"
+url_pdf = "http://mymovez.socsci.ru.nl/wp-content/uploads/2018/09/MyMovez-presentatie-ouderavond-Gymnasium.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
