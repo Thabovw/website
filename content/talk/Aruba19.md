@@ -1,5 +1,5 @@
 +++
-title = "Jongeren zelf vlogs laten maken over sporten en bewegen, werkt dat? [EN: Asking youth to create vlogs about physcial activity, does that work out?]"
+title = "Jongeren zelf vlogs laten maken over sporten en bewegen, werkt dat?"
 date = 2018-11-17T00:00:00  # Schedule page publish date.
 draft = false
 
