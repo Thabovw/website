@@ -1,6 +1,6 @@
 +++
 title = "Testing a Social Network Intervention using Vlogs to Promote Physical Activity among Adolescents: A Randomized Controlled Trial (Preprint)"
-date = 2019-03-24T00:00:00
+date = 2019-03-25T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
