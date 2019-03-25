@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/simulations/</loc>
+      <lastmod>2019-03-25T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/aruba19/</loc>
       <lastmod>2018-11-17T00:00:00+01:00</lastmod>
     </url>
@@ -230,7 +238,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-10-18T00:00:00+02:00</lastmod>
+      <lastmod>2019-03-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -273,6 +281,15 @@
     
     <url>
     
+      <loc>/tags/influence-agents/</loc>
+      <lastmod>2019-03-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/location-based/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -301,7 +318,7 @@
     <url>
     
       <loc>/tags/physical-activity/</loc>
-      <lastmod>2018-10-18T00:00:00+02:00</lastmod>
+      <lastmod>2019-03-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -364,7 +381,7 @@
     <url>
     
       <loc>/tags/simulations/</loc>
-      <lastmod>2018-07-30T00:00:00+02:00</lastmod>
+      <lastmod>2019-03-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -400,7 +417,7 @@
     <url>
     
       <loc>/tags/social-network-interventions/</loc>
-      <lastmod>2018-07-30T00:00:00+02:00</lastmod>
+      <lastmod>2019-03-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
