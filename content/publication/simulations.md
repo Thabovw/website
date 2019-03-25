@@ -1,6 +1,6 @@
 +++
 title = "Simulated Social Network Interventions to Promote Physical Activity: Who Should Be the Influence Agents? (Preprint)"
-date = 2019-03-25T00:00:00
+date = 2019-03-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
