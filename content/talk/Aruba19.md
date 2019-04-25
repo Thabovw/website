@@ -34,7 +34,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "D:/Website/static/files/citations/Ppt_vanWoudenberg.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -49,6 +49,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "aruba.jpg"
-caption = "Aruba"
+caption = "Aruba2"
 
 +++
