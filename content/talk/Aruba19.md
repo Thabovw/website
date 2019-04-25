@@ -48,7 +48,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "aruba.jpg"
-caption = "Aruba2"
+image = "aruba2.jpg"
+caption = "University of Aruba"
 
 +++
