@@ -34,7 +34,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "D:/Website/static/files/citations/Ppt_vanWoudenberg.pdf"
+url_pdf = "files/Aruba_vanWoudenberg.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
