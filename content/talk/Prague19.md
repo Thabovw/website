@@ -34,7 +34,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/ISBNPA_2019_presentation_simuling_SNIs.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
