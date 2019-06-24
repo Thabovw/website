@@ -34,7 +34,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/Sunbelt_SNI_vlogs.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
