@@ -18,7 +18,7 @@ authors = ["P Ketelaar","S Bernritter", "J Vantriet", "A Huhn","TJ van Woudenber
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Journal of Advertising*."
+publication = "*International Journal of Advertising*"
 #publication_short = "In *IJA*"
 
 # Abstract and optional shortened version.

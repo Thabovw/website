@@ -7,7 +7,7 @@ draft = false
 authors = ["TJ van Woudenberg","B Simoski","E Fernandes de Mello Araújo", "KE Bevelander","WJ Burk", "CR Smit", "L Buijs", "M Klein", "M Buijzen"]
 
 # Publication type.
-# Legend:
+# Legend:s
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
@@ -18,7 +18,7 @@ authors = ["TJ van Woudenberg","B Simoski","E Fernandes de Mello Araújo", "KE B
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Medical Internet Research*."
+publication = "*Journal of Medical Internet Research*"
 #publication_short = "In *IJA*"
 
 # Abstract and optional shortened version.

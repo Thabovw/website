@@ -18,7 +18,7 @@ authors = ["TJ van Woudenberg","KE Bevelander","WJ Burk", "CR Smit", "L Buijs", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *BMC Public Health*."
+publication = "*BMC Public Health*"
 #publication_short = "In *IJA*"
 
 # Abstract and optional shortened version.

@@ -18,7 +18,7 @@ authors = ["P Ketelaar","S Bernritter","TJ van Woudenberg", "E Rozendaal", "R Ko
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Business Research*"
+publication = "*Journal of Business Research*"
 #publication_short = "In *JBR*"
 
 # Abstract and optional shortened version.

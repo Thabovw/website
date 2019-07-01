@@ -18,7 +18,7 @@ authors = ["CR Smit", "RNH de Leeuw", "KE Bevelander", "WJ Burk", "L Buijs", "TJ
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Health Psychololy*."
+publication = "*Health Psychology*"
 #publication_short = "In **"
 
 # Abstract and optional shortened version.
