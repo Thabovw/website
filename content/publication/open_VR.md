@@ -42,7 +42,7 @@ projects = []
 tags = ["Advertising", "Location Based", "Open Advertising"]
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/Stefan_Bernritter/publication/326450425_Opening_location-based_mobile_ads_How_openness_and_location_congruency_of_location-based_ads_weaken_negative_effects_of_intrusiveness_on_brand_choice/links/5b4e544ca6fdcc8dae27a451/Opening-location-based-mobile-ads-How-openness-and-location-congruency-of-location-based-ads-weaken-negative-effects-of-intrusiveness-on-brand-choice.pdf"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0148296318303059"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
