@@ -40,6 +40,24 @@
     </item>
     
     <item>
+      <title>Custom functions</title>
+      <link>/tags/custom-functions/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/custom-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripts</title>
+      <link>/tags/scripts/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Influence Agents</title>
       <link>/tags/influence-agents/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
@@ -207,33 +225,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
