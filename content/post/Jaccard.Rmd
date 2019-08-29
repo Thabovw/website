@@ -4,7 +4,7 @@ author: "T van Woudenberg"
 date: 2019-08-29T12:00:00-15:00
 categories: ["R"]
 tags: ["Igraph", "social networks", "Jaccard index"]
-draft: true
+draft: false
 ---
 
 ```{r setup, include=FALSE}
