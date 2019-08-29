@@ -1,5 +1,5 @@
 +++
-# Recent Posts widget.
+# Recent Scripts widget.
 # This widget displays recent scripts from `content/scripts/`.
 widget = "scripts"
 active = true

@@ -309,7 +309,7 @@ enableGitInfo = false
   
   
 [[menu.main]]
-  name = "Blog"
+  name = "Posts"
   url = "#posts"
   weight = 8
 
