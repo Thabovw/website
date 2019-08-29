@@ -23,5 +23,14 @@ I while ago, I had the problem that I wanted to compare the edges between two di
 The edges of the same network between different wavesThe edges in social network based on a nomination question (“With whom do you spend time during the breaks at school”) to the edges based on Bluetooth connects of participants’ smartphonesFor more information, see the protocol paper of the project</description>
     </item>
     
+    <item>
+      <title>Jaccard Index</title>
+      <link>/scripts/jaccard-index/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/scripts/jaccard-index/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

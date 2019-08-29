@@ -263,6 +263,19 @@ shared/(shared+unique_N1+unique_N2)
     </item>
     
     <item>
+      <title>Jaccard Index</title>
+      <link>/scripts/jaccard-index/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/scripts/jaccard-index/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
       <title>Identifying Influence Agents That Promote Physical Activity Through the Simulation of Social Network Interventions: Agent-Based Modeling Study</title>
       <link>/publication/simulations/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
@@ -377,15 +390,6 @@ shared/(shared+unique_N1+unique_N2)
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0100</pubDate>
       
       <guid>/talk/hepa17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing a Social Network Vlog Intervention to Promote Physical Activity Among Adolescents: A Randomized Controlled Trial </title>
-      <link>/talk/ispah18/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/ispah18/</guid>
       <description></description>
     </item>
     
