@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Thabo van Woudenberg</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on Thabo van Woudenberg</description>
+    <title>Scripts on Thabo van Woudenberg</title>
+    <link>/tags/scripts/</link>
+    <description>Recent content in Scripts on Thabo van Woudenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 29 Aug 2019 12:00:00 -1500</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/scripts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jaccard Index</title>
-      <link>/post/jaccard/</link>
-      <pubDate>Thu, 29 Aug 2019 12:00:00 -1500</pubDate>
+      <link>/scripts/jaccard-index/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jaccard/</guid>
+      <guid>/scripts/jaccard-index/</guid>
       <description>Hi all!
 I while ago, I had the problem that I wanted to compare the edges between two different time points, but also the edges of different types of networks. To be more specific, I wanted to compare:
 The edges of the same network between different wavesThe edges in social network based on a nomination question (“With whom do you spend time during the breaks at school”) to the edges based on Bluetooth connects of participants’ smartphonesFor more information, see the protocol paper of the project</description>
