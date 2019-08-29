@@ -49,6 +49,15 @@
     </item>
     
     <item>
+      <title>Scripts</title>
+      <link>/tags/scripts/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Influence Agents</title>
       <link>/tags/influence-agents/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
@@ -219,5 +228,17 @@
       <description></description>
     </item>
     
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> 48b1603c6c1852812d26a064f4536bd11a2f61c5
   </channel>
 </rss>

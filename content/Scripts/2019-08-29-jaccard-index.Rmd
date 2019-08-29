@@ -1,5 +1,5 @@
 ---
-title: Jaccard Index
+title: Custum function for the Jaccard Index
 author: TJ van Woudenberg
 date: '2019-08-29'
 categories:
@@ -8,10 +8,6 @@ tags:
   - Igraph
   - Jaccard index
   - Scripts
-<<<<<<< HEAD:content/post/2019-08-29-jaccard-index.Rmd
-  - Custom functions
-=======
->>>>>>> 48b1603c6c1852812d26a064f4536bd11a2f61c5:content/Scripts/2019-08-29-jaccard-index.Rmd
 slug: jaccard-index
 authors:
   - TJ van Woudenberg
