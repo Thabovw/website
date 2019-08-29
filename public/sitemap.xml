@@ -74,7 +74,29 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/</loc>
+=======
+      <loc>/categories/scripts/</loc>
+      <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/scripts/</loc>
+      <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/scripts/</loc>
+>>>>>>> 48b1603c6c1852812d26a064f4536bd11a2f61c5
       <lastmod>2019-08-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -519,4 +541,32 @@
     </url>
     
   
+<<<<<<< HEAD
+=======
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+>>>>>>> 48b1603c6c1852812d26a064f4536bd11a2f61c5
 </urlset>
