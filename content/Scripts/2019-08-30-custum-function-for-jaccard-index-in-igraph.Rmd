@@ -1,21 +1,21 @@
 ---
-title: Custum function for the Jaccard Index
-author: TJ van Woudenberg
-date: '2019-08-29'
+title: Custum function for Jaccard Index in Igraph
+author: TJ van WOudenberg
+date: '2019-08-30'
+slug: custum-function-for-jaccard-index-in-igraph
 categories:
   - Scripts
 tags:
   - Igraph
   - Jaccard index
   - Scripts
-slug: jaccard-index
-authors:
-  - TJ van Woudenberg
+authors: [T van Woudenberg]
 header:
   caption: ''
-  image: ''
+  image: 'office.jpg'
   preview: yes
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)

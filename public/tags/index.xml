@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Custom functions</title>
-      <link>/tags/custom-functions/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/custom-functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Igraph</title>
       <link>/tags/igraph/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/igraph/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>Jaccard index</title>
       <link>/tags/jaccard-index/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/jaccard-index/</guid>
       <description></description>
@@ -42,16 +33,7 @@
     <item>
       <title>Scripts</title>
       <link>/tags/scripts/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/scripts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scripts</title>
-      <link>/tags/scripts/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/scripts/</guid>
       <description></description>
@@ -228,17 +210,5 @@
       <description></description>
     </item>
     
-<<<<<<< HEAD
-=======
-    <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description></description>
-    </item>
-    
->>>>>>> 48b1603c6c1852812d26a064f4536bd11a2f61c5
   </channel>
 </rss>
