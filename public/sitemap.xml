@@ -20,14 +20,6 @@
     
     <url>
     
-      <loc>/scripts/custum-function-for-jaccard-index-in-igraph/</loc>
-      <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/igraph/</loc>
       <lastmod>2019-08-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -46,7 +38,7 @@
     
     <url>
     
-      <loc>/tags/scripts/</loc>
+      <loc>/categories/scripts/</loc>
       <lastmod>2019-08-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -55,7 +47,7 @@
     
     <url>
     
-      <loc>/categories/scripts/</loc>
+      <loc>/tags/scripts/</loc>
       <lastmod>2019-08-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -448,14 +440,6 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/scripts/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
