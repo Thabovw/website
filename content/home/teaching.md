@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 6
 
 +++
 I am a teaching instructor for the following courses at the Radboud Universtiy in Nijmegen:
@@ -36,3 +36,8 @@ I am a teaching instructor for the following courses at the Radboud Universtiy i
 
 - Current Theories of Media and Influence
 - Bachelor Theses
+- Research Master Theses
+
+2020
+
+- Master Theses
