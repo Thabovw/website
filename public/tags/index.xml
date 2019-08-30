@@ -210,5 +210,20 @@
       <description></description>
     </item>
     
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> 48b1603c6c1852812d26a064f4536bd11a2f61c5
+>>>>>>> 5c92f899dae650a4c446dc1bf1cf34f1d7cb0197
   </channel>
 </rss>
