@@ -1,8 +1,8 @@
 ---
-title: Custum function for Jaccard Index in Igraph
+title: Custom function for Jaccard Index in Igraph
 author: T van WOudenberg
 date: '2019-08-30'
-slug: custum-function-for-jaccard-index-in-igraph
+slug: custom-function-for-jaccard-index-in-igraph
 categories:
   - Scripts
 tags:
