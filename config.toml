@@ -313,6 +313,13 @@ enableGitInfo = false
     name = "CV"
     url = "files/CV TJ van Woudenberg 2019.pdf"
     weight = 10
+    
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ [[menu.main]]
+    name = "Dissertation"
+    url = "files/Dissertation_T_van_Woudenberg.pdf"
+    weight = 11
 
 # Search.
 [params.search]
