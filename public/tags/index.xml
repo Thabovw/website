@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adolescents</title>
+      <link>/tags/adolescents/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/adolescents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Activity</title>
+      <link>/tags/physical-activity/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/physical-activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Network Intervention</title>
+      <link>/tags/social-network-intervention/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/social-network-intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vlogs</title>
+      <link>/tags/vlogs/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/vlogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLuetooth</title>
+      <link>/tags/bluetooth/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/bluetooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>/tags/communication/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nominated</title>
+      <link>/tags/nominated/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/nominated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks</title>
+      <link>/tags/social-networks/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/social-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Igraph</title>
@@ -49,15 +121,6 @@
     </item>
     
     <item>
-      <title>Physical Activity</title>
-      <link>/tags/physical-activity/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/physical-activity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Simulations</title>
       <link>/tags/simulations/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
@@ -72,69 +135,6 @@
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/social-network-interventions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adolescents</title>
-      <link>/tags/adolescents/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/adolescents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BLuetooth</title>
-      <link>/tags/bluetooth/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/bluetooth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Communication</title>
-      <link>/tags/communication/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nominated</title>
-      <link>/tags/nominated/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/nominated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Network Intervention</title>
-      <link>/tags/social-network-intervention/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/social-network-intervention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Networks</title>
-      <link>/tags/social-networks/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/social-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vlogs</title>
-      <link>/tags/vlogs/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/vlogs/</guid>
       <description></description>
     </item>
     

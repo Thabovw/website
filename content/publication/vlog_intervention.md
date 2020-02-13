@@ -1,6 +1,6 @@
 +++
-title = "Testing a Social Network Intervention using Vlogs to Promote Physical Activity among Adolescents: A Randomized Controlled Trial (Preprint)"
-date = 2019-03-25T00:00:00
+title = "Testing a Social Network Intervention Using Vlogs to Promote Physical Activity Among Adolescents: A Randomized Controlled Trial"
+date = 2020-01-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["TJ van Woudenberg", "KE Bevelander","WJ Burk", "CR Smit", "L Buijs",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-#publication = "In *Journal of Medical Internet Research*."
-#publication_short = "In *IJA*"
+#publication = "In *Frontiers in Psychology*."
+#publication_short = "In **"
 
 # Abstract and optional shortened version.
-abstract = "There is a need to stimulate physical activity among adolescents, but unfortunately, they are hard to reach with traditional mass media interventions. Given the popularity and the networked structure of social media, social network intervention seems to be a promising alternative. In social network interventions, a small group of individuals (influence agents) is selected to promote health behaviors within their social network. This study investigates whether a social network intervention is more effective to promote physical activity, compared to a mass media intervention and no intervention. Adolescents (N = 446; Mage = 11.35, SDage = 1.34; 47% male) were randomly allocated by classroom (N = 26) to one of three conditions: social network intervention, mass media intervention, or control condition. In the social network intervention, 15% of the participants (based on peer nominations) was approached to become an influence agent, who then created several vlogs about physical activity. During the intervention period, participants were able to view the vlogs on a smartphone. In the mass media intervention, participants were exposed to vlogs made by unfamiliar peers (i.e., the vlogs of the social network intervention). The control condition did not receive vlogs about physical activity. All participants received a research smartphone to complete questionnaires and a wrist-worn accelerometer to measure physical activity. There were no differences between the social network intervention and the control condition in the short-term, and an unexpected increase in the control condition compared to the social network intervention in the long-term. No differences between the social network intervention and mass media intervention were observed either. Exploratory analyses suggest that the social network intervention increased the perceived social norm toward physical activity and responses to the vlogs were more positive in the social network intervention than in the mass media intervention. The current study does not provide evidence that a social network intervention is more effective in increasing physical activity in adolescents compared to a mass media or no intervention. However, exploratory results suggest that the social network intervention has a positive effect on the perceived descriptive norm and the responses towards the vlogs. These first results warrant further research to investigate the role of the perceived social norms and the added benefit of using influence agents for social network interventions."
+abstract = "There is a need to stimulate physical activity among adolescents, but unfortunately, they are hard to reach with traditional mass media interventions. A promising alternative is to carry out social network interventions. In social network interventions, a small group of individuals (influence agents) is selected to promote health-related behaviors within their social network. This study investigates whether a social network intervention is more effective to promote physical activity, compared to a mass media intervention and no intervention. Adolescents (N = 446; Mage = 11.35, SDage = 1.34; 47% male) were randomly allocated by classroom (N = 26, in 11 schools) to one of three conditions: social network intervention, mass media intervention, or control condition. In the social network intervention, 15% of the participants (based on peer nominations) was approached to become an influence agent, who created vlogs about physical activity that were shown during the intervention. In the mass media intervention, participants were exposed to vlogs made by unfamiliar peers (i.e., vlogs of the social network intervention). The control condition did not receive vlogs about physical activity. All participants received a research smartphone to complete questionnaires and a wrist-worn accelerometer to measure physical activity. The trial was registered a priori in the Dutch Trial Registry (NTR6903). There were no differences in objectively measured physical activity between this social network intervention and the control condition in the short-term, but there was an unexpected increase in the control condition compared to the social network intervention in the long-term. No differences between the social network intervention and mass media intervention were observed. The current study does not provide evidence that this social network intervention is effective in increasing physical activity in adolescents. Exploratory analyses suggest that this social network intervention increased the perceived social norm toward physical activity and responses to the vlogs were more positive in the social network intervention than in the mass media intervention. These initial results warrant further research to investigate the role of the social norms and the added benefit of using influence agents for social network interventions."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -42,7 +42,7 @@ projects = []
 tags = ["Social Network Intervention", "Physical Activity", "Adolescents", "Vlogs"]
 
 # Links (optional).
-#url_pdf = ""
+#url_pdf = "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02913/full?report=reader"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"

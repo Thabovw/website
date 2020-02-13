@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing a Social Network Intervention Using Vlogs to Promote Physical Activity Among Adolescents: A Randomized Controlled Trial</title>
+      <link>/publication/vlog_intervention/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/vlog_intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the measurement of different social networks: Peer nominations, online communication, and proximity data</title>
+      <link>/publication/beacon/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/beacon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identifying Influence Agents That Promote Physical Activity Through the Simulation of Social Network Interventions: Agent-Based Modeling Study</title>
@@ -18,24 +36,6 @@
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/simulations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing the Measurement of Different Social Networks: Peer Nominations, Online Communication, and Proximity Data (Preprint)</title>
-      <link>/publication/beacon/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/beacon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing a Social Network Intervention using Vlogs to Promote Physical Activity among Adolescents: A Randomized Controlled Trial (Preprint)</title>
-      <link>/publication/vlog_intervention/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/vlog_intervention/</guid>
       <description></description>
     </item>
     
