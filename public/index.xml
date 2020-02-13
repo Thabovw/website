@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thabo van Woudenberg on Thabo van Woudenberg</title>
+    <title>Thabo J. van Woudenberg on Thabo J. van Woudenberg</title>
     <link>/</link>
-    <description>Recent content in Thabo van Woudenberg on Thabo van Woudenberg</description>
+    <description>Recent content in Thabo J. van Woudenberg on Thabo J. van Woudenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
@@ -33,6 +33,15 @@
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>/publication/beacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection and Influence Effects on Physical Activity in Adolescents’ Social Networks</title>
+      <link>/talk/etmaal2020/</link>
+      <pubDate>Wed, 01 Jan 2020 10:45:00 +0100</pubDate>
+      
+      <guid>/talk/etmaal2020/</guid>
       <description></description>
     </item>
     
@@ -377,15 +386,6 @@ shared/(shared+unique_N1+unique_N2)
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/protocol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Randomized Controlled Trial Testing a Social Network Intervention to Promote Physical Activity Among Adolescents by using Smartphones</title>
-      <link>/talk/hepa17/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/hepa17/</guid>
       <description></description>
     </item>
     

@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Thabo van Woudenberg"
+title = "Thabo J. van Woudenberg"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -64,17 +64,17 @@ enableGitInfo = false
 
  # Your details.
   name = "Thabo van Woudenberg"
-  role = "Academic researcher in Communication Sciences"
+  role = "Research Coordinator"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Radboud University", url = "http://www.ru.nl/english/" } ]
+  organizations = [ { name = "Erasmus University, Rotterdam", url = "https://www.eur.nl/en/essb/" }, { name = "Radboud University, Nijmegen", url = "http://www.ru.nl/english/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "t.vanwoudenberg@bsi.ru.nl"
-  address = "Spinoza 9 Room 26, Radboud University, Nijmegen, the Netherlands"
-  office_hours = "Monday 09:00 to 17:00 or email for appointment"
+  email = "vanwoudenberg@essb.eur.nl"
+  address = "Mandeville 19, Room 16, Erasmus University, Rotterdam, the Netherlands"
+  office_hours = "10:30 to 16:00 (email for appointment)"
   phone = ""
   skype = ""
   telegram = ""
@@ -233,7 +233,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:t.vanwoudenberg@bsi.ru.nl"
+    link = "mailto:vanwoudenberg@essb.eur.nl"
 
   [[params.social]]
     icon = "twitter"
@@ -244,6 +244,16 @@ enableGitInfo = false
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.nl/citations?user=8AbDDxkAAAAJ&hl=en&oi=sra"
+    
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/thabo-van-woudenberg/"
+    
+[[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-8586-5876"
 
   [[params.social]]
     icon = "researchgate"

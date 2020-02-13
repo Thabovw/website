@@ -12,13 +12,18 @@ weight = 1
   interests = [
     "Physical Activity",
     "Social Influence",
-    "Social Network Theory",
-    "Health interventions",
-    "Mixed methods",
-    "Well-being"
+    "Social Networks",
+    "Health Interventions",
+    "Mixed Methods",
+    "Well-Being"
   ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Behavioural Sciences (Cum Laude)"
+  institution = "Radboud University"
+  year = 2020
+
 [[education.courses]]
   course = "MSc. in Behavioural Sciences (research master)"
   institution = "Radboud University"
@@ -35,7 +40,7 @@ weight = 1
 
 # Biography
 
-Thabo van Woudenberg (MSc.) is a PhD-candidate at the Radboud University in the Netherlands, and part of the [MyMovez](http://www.mymovez.eu) research team.
+Dr. Thabo van Woudenberg is the research coordinator of the NWO Vici financed SocialMovez project at the Erasmus University in Rotterdam, the Netherlands. Before this postition, Thabo investigated the role of the social networks in promoting physical activity of adolescents and was part of the [MyMovez](http://www.mymovez.eu) research team. His work is combined in the [dissertation](https://www.tvanwoudenberg.com/files/Dissertation_T_van_Woudenberg.pdf), which he succesfully defended in Janurary 2020.
 
-After obtaining the bachelor’s in Communication Science in Nijmegen, he finished the research Behavioural Science in Nijmegen successfully. Since February 2015, Thabo is working as a PhD on the MyMovez-project, focusing on physical activity in children and adolescents. In his studies, he looks at social influences on physical activity and uses social network interventions to promote physical activity in Dutch youth.
+Currently, Thabo investigates how health behaviors spread online, and how online social networks can be deployed to help adolescents live a healthy life.
  
