@@ -34,7 +34,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "C:/Users/u973123/Documents/RWebsite/public/files/Etmaal2020.pdf"
+url_pdf = "files/Etmaal2020.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
