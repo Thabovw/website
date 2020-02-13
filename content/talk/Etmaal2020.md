@@ -34,7 +34,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://mymovez.socsci.ru.nl/wp-content/uploads/2020/02/etmaal_2020.pdf"
+url_pdf = "files/Etmaal_2020.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
