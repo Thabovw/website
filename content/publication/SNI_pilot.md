@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*BMC Public Health*"
-#publication_short = "In *IJA*"
+#publication_short = "In **"
 
 # Abstract and optional shortened version.
 abstract = "The current study examined the effectiveness of a social network intervention to promote physical activity among adolescents. Social network interventions utilize peer influence to change behavior by identifying the most influential individuals within social networks (i.e., influence agents), and training them to promote the target behavior. A total of 190 adolescents were randomly allocated to either the intervention or control condition. In the intervention condition, the most influential adolescents in each classroom were trained to promote physical activity among their classmates. Participants received a research smartphone to complete questionnaires and an accelerometer to measure physical activity at baseline, and during the intervention one month later. However, no intervention effect was observed.This was one of the first studies to test whether physical activity in adolescents could be promoted via influence agents, and the first social network intervention to use smartphones to do so."

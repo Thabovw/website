@@ -42,7 +42,7 @@ projects = []
 tags = ["Social Network Intervention", "Physical Activity", "Adolescents", "Vlogs"]
 
 # Links (optional).
-#url_pdf = "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02913/full?report=reader"
+url_pdf = "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02913/full?report=reader"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"

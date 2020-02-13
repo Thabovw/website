@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Homophily of adolescents&#39; physcial activity in social networks: Selection and/or influence?</title>
+      <link>/publication/homophily/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/homophily/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Testing a Social Network Intervention Using Vlogs to Promote Physical Activity Among Adolescents: A Randomized Controlled Trial</title>
@@ -377,15 +386,6 @@ shared/(shared+unique_N1+unique_N2)
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0100</pubDate>
       
       <guid>/talk/hepa17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing a Social Network Vlog Intervention to Promote Physical Activity Among Adolescents: A Randomized Controlled Trial </title>
-      <link>/talk/ispah18/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/ispah18/</guid>
       <description></description>
     </item>
     

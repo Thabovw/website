@@ -18,7 +18,7 @@ authors = ["TJ van Woudenberg", "KE Bevelander","WJ Burk", "CR Smit", "L Buijs",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-#publication = "In **."
+publication = "In *Network Science*."
 #publication_short = "In **"
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = ["Social Networks", "Nominated", "BLuetooth", "Communication", "Physical Activity"]
 
 # Links (optional).
-#url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/303C80FB933C0F946DEA634BC6049A49/S2050124219000651a.pdf/comparing_the_measurement_of_different_social_networks_peer_nominations_online_communication_and_proximity_data.pdf"
+url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/303C80FB933C0F946DEA634BC6049A49/S2050124219000651a.pdf/comparing_the_measurement_of_different_social_networks_peer_nominations_online_communication_and_proximity_data.pdf"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"
