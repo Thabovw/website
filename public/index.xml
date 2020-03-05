@@ -29,14 +29,14 @@
 
 &lt;p&gt;Hi all!&lt;/p&gt;
 &lt;p&gt;While I’m a writing this blog, I’m sitting in the train. Soaked… again. It has been raining for quite some weeks now and the weather report doesn’t give me much hope for the next weeks. I certainly don’t want to go outside to train for the half-marathon. To make myself a little less depressed, I think it is time for a new blog.&lt;/p&gt;
-&lt;p&gt;In this blog, I wanted to see whether I am the only one, or whether the kids in the &lt;a href=&#34;https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5353-5#Sec4&#34;&gt;MyMovez project&lt;/a&gt; sample also are less physically active on rainy days.&lt;/p&gt;
+&lt;p&gt;In this blog, I wanted to see whether I am the only one, or whether the kids in the &lt;a href=&#34;https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5353-5#Sec4&#34; target=&#34;_blank&#34;&gt;MyMovez project&lt;/a&gt; sample also are less physically active on rainy days.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
 &lt;img src=&#34;https://media.giphy.com/media/129BtnUUD6Lrzi/giphy.gif&#34; width=&#34;400&#34; height=&#34;200&#34;&gt;
 &lt;/p&gt;
-&lt;p&gt;But before we start, first let is get in the mood by playing the sound on &lt;a href=&#34;https://rainymood.com/&#34;&gt;this website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But before we start, first let is get in the mood by playing the sound on &lt;a href=&#34;https://rainymood.com/&#34; target=&#34;_blank&#34;&gt;this website&lt;/a&gt;.&lt;/p&gt;
 &lt;div id=&#34;the-data&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;The data&lt;/h3&gt;
-&lt;p&gt;The data of the project is publicly available, &lt;a href=&#34;https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:155345&#34;&gt;clickettyclickclick&lt;/a&gt;. In addition, the KNMI (Royal Netherlands Meteorological Institute) shares the day-to-day weather data on &lt;a href=&#34;http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi&#34;&gt;their website&lt;/a&gt;. For a conference poster, I downloaded the data from 27-01-2016 until 04-07-2018. This data is already merged to the physical activity data, so you don’t have to do this yourself.&lt;/p&gt;
+&lt;p&gt;The data of the project is publicly available, &lt;a href=&#34;https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:155345&#34; target=&#34;_blank&#34;&gt;clickettyclickclick&lt;/a&gt;. In addition, the KNMI (Royal Netherlands Meteorological Institute) shares the day-to-day weather data on &lt;a href=&#34;http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi&#34; target=&#34;_blank&#34;&gt;their website&lt;/a&gt;. For a conference poster, I downloaded the data from 27-01-2016 until 04-07-2018. This data is already merged to the physical activity data, so you don’t have to do this yourself.&lt;/p&gt;
 &lt;p&gt;The first step is to load the downloaded MyMovez data. More specifically, we unzip the file and only need the physical activity data that is stored in the folder “5. Fitbit data”.
 Let’s see what type of data we have here…&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;## -- Attaching packages ------------------------------------------------------------------------------------------------------------------------------------------------- tidyverse 1.2.1 --
@@ -103,7 +103,7 @@ FB %&amp;gt;%
 &lt;p&gt;In this blog, I want to make two new variables. One that informs us what year it is, the other the day number in that year. For example, 4th of July in 2018 is in the year 2018 (duh) and the 4th of July is the …&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;lubridate::yday(&amp;quot;2018-07-04&amp;quot;)
 ## [1] 185&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;… 185th day of the year of course. I knew that. this function is not on the &lt;a href=&#34;https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_lubridate.pdf&#34;&gt;cheatsheet&lt;/a&gt;, but believe me, it works.&lt;/p&gt;
+&lt;p&gt;… 185th day of the year of course. I knew that. this function is not on the &lt;a href=&#34;https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_lubridate.pdf&#34; target=&#34;_blank&#34;&gt;cheatsheet&lt;/a&gt;, but believe me, it works.&lt;/p&gt;
 &lt;p&gt;We can use the same function for all the dates:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;FB &amp;lt;- FB %&amp;gt;%
   mutate(Year = lubridate::year(LDate),      # this is the year

@@ -447,14 +447,14 @@ In this blog, I wanted to see whether I am the only one, or whether the kids in 
 
 <p>Hi all!</p>
 <p>While I’m a writing this blog, I’m sitting in the train. Soaked… again. It has been raining for quite some weeks now and the weather report doesn’t give me much hope for the next weeks. I certainly don’t want to go outside to train for the half-marathon. To make myself a little less depressed, I think it is time for a new blog.</p>
-<p>In this blog, I wanted to see whether I am the only one, or whether the kids in the <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5353-5#Sec4">MyMovez project</a> sample also are less physically active on rainy days.</p>
+<p>In this blog, I wanted to see whether I am the only one, or whether the kids in the <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5353-5#Sec4" target="_blank">MyMovez project</a> sample also are less physically active on rainy days.</p>
 <p align="center">
 <img src="https://media.giphy.com/media/129BtnUUD6Lrzi/giphy.gif" width="400" height="200">
 </p>
-<p>But before we start, first let is get in the mood by playing the sound on <a href="https://rainymood.com/">this website</a>.</p>
+<p>But before we start, first let is get in the mood by playing the sound on <a href="https://rainymood.com/" target="_blank">this website</a>.</p>
 <div id="the-data" class="section level3">
 <h3>The data</h3>
-<p>The data of the project is publicly available, <a href="https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:155345">clickettyclickclick</a>. In addition, the KNMI (Royal Netherlands Meteorological Institute) shares the day-to-day weather data on <a href="http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi">their website</a>. For a conference poster, I downloaded the data from 27-01-2016 until 04-07-2018. This data is already merged to the physical activity data, so you don’t have to do this yourself.</p>
+<p>The data of the project is publicly available, <a href="https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:155345" target="_blank">clickettyclickclick</a>. In addition, the KNMI (Royal Netherlands Meteorological Institute) shares the day-to-day weather data on <a href="http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi" target="_blank">their website</a>. For a conference poster, I downloaded the data from 27-01-2016 until 04-07-2018. This data is already merged to the physical activity data, so you don’t have to do this yourself.</p>
 <p>The first step is to load the downloaded MyMovez data. More specifically, we unzip the file and only need the physical activity data that is stored in the folder “5. Fitbit data”.
 Let’s see what type of data we have here…</p>
 <pre><code>## -- Attaching packages ------------------------------------------------------------------------------------------------------------------------------------------------- tidyverse 1.2.1 --
@@ -521,7 +521,7 @@ FB %&gt;%
 <p>In this blog, I want to make two new variables. One that informs us what year it is, the other the day number in that year. For example, 4th of July in 2018 is in the year 2018 (duh) and the 4th of July is the …</p>
 <pre class="r"><code>lubridate::yday(&quot;2018-07-04&quot;)
 ## [1] 185</code></pre>
-<p>… 185th day of the year of course. I knew that. this function is not on the <a href="https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_lubridate.pdf">cheatsheet</a>, but believe me, it works.</p>
+<p>… 185th day of the year of course. I knew that. this function is not on the <a href="https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_lubridate.pdf" target="_blank">cheatsheet</a>, but believe me, it works.</p>
 <p>We can use the same function for all the dates:</p>
 <pre class="r"><code>FB &lt;- FB %&gt;%
   mutate(Year = lubridate::year(LDate),      # this is the year
