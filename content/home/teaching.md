@@ -14,30 +14,27 @@ subtitle = ""
 weight = 6
 
 +++
-I am a teaching instructor for the following courses at the Radboud Universtiy in Nijmegen:
+I am a teacher/instructor for the following courses at the Radboud Universtiy in Nijmegen:
 
 2015
-
 - Theories of Strategic and Persuasive Communication
 - Communication Science Skills
 
 
 2016
-
 - Theories of Strategic and Persuasive Communication
 - Issues in Communication Science
 
 2017
-
 - Current Theories of Influence
 - Experimental Designs
 
 2018
-
 - Current Theories of Media and Influence
 - Bachelor Theses
 - Research Master Theses
 
 2020
-
+- Minor Research Project
+- Social Relationships
 - Master Theses

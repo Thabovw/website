@@ -17,7 +17,7 @@ tags:
   - Mixed effects models
 header:
   caption: 'Photo by Zach Reiner @ unsplash.com'
-  image: 'rain.jpg'
+  image: 'rain.png'
   preview: no
 ---
 
