@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Thabo J. van Woudenberg</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Thabo J. van Woudenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Dr. Thabo van Woudenberg is the research coordinator of the NWO Vici financed SocialMovez project at the Erasmus University in Rotterdam, the Netherlands. Before this postition, Thabo investigated the role of the social networks in promoting physical activity of adolescents and was part of the MyMovez research team. His work is combined in the dissertation, which he succesfully defended in Janurary 2020.
+Currently, Thabo investigates how health behaviors spread online, and how online social networks can be deployed to help adolescents live a healthy life.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I am a teacher/instructor for the following courses at the Radboud Universtiy in Nijmegen:
+2015
+ Theories of Strategic and Persuasive Communication Communication Science Skills  2016
+ Theories of Strategic and Persuasive Communication Issues in Communication Science  2017
+ Current Theories of Influence Experimental Designs  2018
+ Current Theories of Media and Influence Bachelor Theses Research Master Theses  2020
+ Minor Research Project Social Relationships Master Theses  </description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/skills/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
