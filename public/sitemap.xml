@@ -3,9 +3,80 @@
     
     <url>
     
+      <loc>/talk/sunbelt20/</loc>
+      <lastmod>2020-07-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2020-07-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cross-lagged-panel-model/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/norms/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/snacking-behavior/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/social-norms/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/4/</loc>
       <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -14,7 +85,6 @@
     
       <loc>/tags/adolescents/</loc>
       <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -31,16 +101,6 @@
     
       <loc>/tags/physical-activity/</loc>
       <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -49,25 +109,6 @@
     
       <loc>/tags/social-network-intervention/</loc>
       <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -76,7 +117,6 @@
     
       <loc>/tags/vlogs/</loc>
       <lastmod>2020-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -85,7 +125,6 @@
     
       <loc>/categories/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -94,7 +133,14 @@
     
       <loc>/tags/children/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/lme4/</loc>
+      <lastmod>2020-03-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -103,7 +149,6 @@
     
       <loc>/tags/mixed-effects-models/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -112,7 +157,6 @@
     
       <loc>/tags/physcial-activity/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -121,7 +165,6 @@
     
       <loc>/tags/precipitation/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -130,7 +173,6 @@
     
       <loc>/tags/rain/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -139,7 +181,6 @@
     
       <loc>/categories/scripts/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -148,7 +189,6 @@
     
       <loc>/tags/sunshine/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -165,25 +205,6 @@
     
       <loc>/tags/weather/</loc>
       <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/lme4/</loc>
-      <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2020-01-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -200,7 +221,6 @@
     
       <loc>/tags/bluetooth/</loc>
       <lastmod>2020-01-10T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -209,7 +229,6 @@
     
       <loc>/tags/communication/</loc>
       <lastmod>2020-01-10T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -226,7 +245,6 @@
     
       <loc>/tags/nominated/</loc>
       <lastmod>2020-01-10T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -235,7 +253,6 @@
     
       <loc>/tags/social-networks/</loc>
       <lastmod>2020-01-10T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -260,7 +277,6 @@
     
       <loc>/tags/igraph/</loc>
       <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -269,7 +285,6 @@
     
       <loc>/tags/jaccard-index/</loc>
       <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -278,7 +293,6 @@
     
       <loc>/tags/scripts/</loc>
       <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -295,7 +309,6 @@
     
       <loc>/tags/influence-agents/</loc>
       <lastmod>2019-08-05T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -304,7 +317,6 @@
     
       <loc>/tags/simulations/</loc>
       <lastmod>2019-08-05T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -313,7 +325,6 @@
     
       <loc>/tags/social-network-interventions/</loc>
       <lastmod>2019-08-05T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -354,7 +365,6 @@
     
       <loc>/tags/centrality/</loc>
       <lastmod>2018-10-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -363,7 +373,6 @@
     
       <loc>/tags/smartphones/</loc>
       <lastmod>2018-10-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -372,7 +381,6 @@
     
       <loc>/tags/advertising/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -381,7 +389,6 @@
     
       <loc>/tags/location-based/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -390,7 +397,6 @@
     
       <loc>/tags/open-advertising/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -407,7 +413,6 @@
     
       <loc>/publication_types/1/</loc>
       <lastmod>2018-07-30T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -416,7 +421,6 @@
     
       <loc>/tags/social-network-analyses/</loc>
       <lastmod>2018-07-30T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -481,7 +485,6 @@
     
       <loc>/tags/virtual-reality/</loc>
       <lastmod>2017-03-04T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -578,32 +581,6 @@
     
       <loc>/talk/ica2015/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/mymovez/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
