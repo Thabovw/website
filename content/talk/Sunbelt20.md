@@ -17,7 +17,7 @@ event = "Sunbelt 2020"
 event_url = "https://www.insna.org/"
 
 # Location of event.
-location = "Worldwide"
+location = "World wide"
 
 # Is this a selected talk? (true/false)
 selected = false
