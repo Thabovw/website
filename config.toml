@@ -13,7 +13,7 @@ title = "Thabo J. van Woudenberg"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -64,7 +64,7 @@ enableGitInfo = false
 
  # Your details.
   name = "Thabo van Woudenberg"
-  role = "Research Coordinator"
+  role = "Post doc research / Coordinator"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -283,37 +283,37 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "about"
   weight = 1
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "publications_selected"
   weight = 2
 
 [[menu.main]]
   name = "Presentations"
-  url = "#talks"
+  url = "talks"
   weight = 4
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "teaching"
   weight = 5
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "projects"
   weight = 6
 
 [[menu.main]]
   name = "Blog"
-  url = "#posts"
+  url = "posts"
   weight = 7
 
 [[menu.main]]
   name = "Contact"
-  url = "#contact"
+  url = "contact"
   weight = 9
 
 
